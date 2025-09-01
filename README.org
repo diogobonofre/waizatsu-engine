@@ -1,0 +1,2 @@
+* Waizatsu Engine
+The name comes from the romanization of the japanese word 猥雑 that stands for confusion, disorder, chaos, clutter, mess etc. And this is perfect for a game engine whos being developed by a guy that has never ever before programed a game more complex than jokenpo. Plus, it will be entirely written in C.
