@@ -1,0 +1,7 @@
+Language: C
+BasedOnStyle: LLVM
+IndentWidth: 8
+UseTab: Never
+ColumnLimit: 132
+PointerAlignment: Left
+AllowShortIfStatementsOnASingleLine: WithoutElse

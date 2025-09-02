@@ -44,6 +44,7 @@
           xorg.libxcb
           xorg.libXinerama
           xcb-util-cursor
+          kdePackages.wayland
           # NOTE: glibc (stdenv.cc.cc.lib) is provided by stdenv automatically
           # and is not usually needed here.
         ];
